@@ -1,0 +1,3 @@
+include ':prdownloader'
+include ':app'
+rootProject.name = "Arad downloader"
