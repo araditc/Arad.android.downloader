@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-	        implementation 'com.github.araditc:Arad.android.resumableUploader:Tag'
+	        implementation 'com.github.araditc:Arad.android.downloader:1.0.0'
 }
 ```
 
